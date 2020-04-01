@@ -146,7 +146,7 @@ boxes = []
 #    boxes.append(b)
 
 t = TankP()
-wh  ile z == 1:
+while z == 1:
 
     for i in pygame.event.get():
         if i.type == pygame.QUIT:
